@@ -6,7 +6,7 @@ I tried using clean architecture with domain , application , persistence and Web
 
 USED TECHNOLOGIES
 
-Entity Framework Core 3.1
-AutoMapper
-MediatR
+Entity Framework Core 3.1,
+AutoMapper,
+MediatR,
 MSSQL(localdb)
